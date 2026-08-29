@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+I am Matthew orellana. I am currently a senior at fau.
